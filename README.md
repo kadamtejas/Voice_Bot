@@ -1,8 +1,8 @@
-# 🎙️ Voice-Enabled Chatbot using LLaMA 3 (Groq) & Gradio
+## 🎙️ Voice-Enabled Chatbot using LLaMA 3 (Groq) & Gradio
 
 An interactive Proof of Concept (POC) chatbot that supports voice and text input and responds using Groq's ultra-fast LLaMA 3 model. Built with Python and Gradio for a smooth frontend experience.
 
-# 🚀 Features
+## 🚀 Features
 🎤 Accepts voice input using mic or audio file
 
 🔠 Converts speech to text using Google STT
@@ -15,7 +15,7 @@ An interactive Proof of Concept (POC) chatbot that supports voice and text input
 
 💬 (Optional) Text-to-Speech output of bot's answer
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 Python
 
 Gradio – UI interface
