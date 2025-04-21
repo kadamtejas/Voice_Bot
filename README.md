@@ -23,3 +23,24 @@ Gradio – UI interface
 Groq API – LLaMA 3 (70B) backend
 
 SpeechRecognition – Speech-to-text
+
+## ▶️ Run the App
+
+python main.py
+
+
+## 📌 To Do / Future Ideas
+Add TTS (Text-to-Speech) for voice response
+
+Allow live streaming voice input
+
+Deploy on Hugging Face / Render
+
+## 🙌 Credits
+Groq
+
+Gradio
+
+SpeechRecognition
+
+
